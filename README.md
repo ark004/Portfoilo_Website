@@ -11,7 +11,19 @@
 ![port_2](https://user-images.githubusercontent.com/108901697/187548699-62d70ba7-6e57-4e52-9a73-d034a91d5fc4.png)
 # How its work
 
-$mkvirtualenv env_name 
+
+# Installation
+
+pip install django
+
+virtualenv
+
+# Mac/Linux
+source env/bin/activate
+
+# For windows
+
+$workon
 
 $python manage.py runserver
 
