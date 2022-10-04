@@ -1,6 +1,6 @@
 # Portfoilo_Website
 
-Personal website – A full-featured personal website build with Django Framework,front end as HTML,CSS,JavaScript with email integration
+Personal website – A full-featured personal website build with Django Framework,front end as HTML,CSS,JavaScript 
 
 ![portfolio](https://user-images.githubusercontent.com/108901697/187548086-d1608033-4985-4132-8139-cb7df0463904.png)
 
